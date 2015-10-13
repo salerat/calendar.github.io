@@ -1,0 +1,9 @@
+html {
+    background-color: #ccc;
+}
+
+.upworkCalendar {
+    margin: 0 auto;
+    width: 600px;
+    padding-top: 30px;
+}
